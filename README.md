@@ -136,5 +136,10 @@ conversation.
 
 ## Python code!
 
-I have put together a python script that could be used to work out which
-students to pair up based on the above strategies!
+I have put together [a python script](./match-students.py) that could be used to
+work out which students to pair up based on the above strategies!
+
+## See Also
+
+After doing some digging, I found a wikipedia article about [round-robin
+tournaments](https://en.wikipedia.org/wiki/Round-robin_tournament).
